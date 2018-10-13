@@ -1,0 +1,294 @@
+.root {
+	-fx-font-family: "Verdana";
+}
+
+#backgroundColor {
+	-fx-background-color: #FFFF;
+}
+
+/********************** ALTA CUESTION ***********************/
+#borderPaneText {
+	-fx-padding: 40px;
+	-fx-pref-width: 700px;
+}
+
+#borderPaneButton {
+	-fx-padding: 20px;
+}
+
+#addCuestionFlowPane {
+	-fx-padding: 20px 0 0 0;
+}
+
+#rPane {
+	-fx-padding: 5px 0 15px 0;
+}
+
+#respuestaFlowPane {
+	-fx-padding: 15px;
+}
+
+#addCuestionLabel {
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 5px 5px 0;
+}
+
+#addCuestionButton {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#addCuestionTextField {
+	-fx-padding: 8;
+	-fx-pref-width: 400px;
+}
+
+#addRespuestaTextField {
+	-fx-padding: 8;
+	-fx-pref-width: 375px;
+}
+
+#addRespuestasButton {
+
+	-fx-pref-width: 200px;
+	-fx-font-size: 10pt;
+	-fx-padding: 7px 0 7px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#addCuestionButton:hover, #addRespuestasButton:hover {
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #29b6f6;
+	-fx-border-color: #29b6f6;
+	-fx-border-radius: 2;
+}
+
+#addCuestionButton:armed {
+	-fx-padding: 9;
+	-fx-pref-width: 380px;
+}
+
+#addRespuestasButton:armed {
+	-fx-pref-width: 205px;
+	-fx-font-size: 11pt;
+}
+
+
+
+.chart-pie-label {
+  -fx-font-size: 19pt ;
+  -fx-font-family: Times New Roman; 
+}
+
+
+#borrarRespuestaAlternativaBtn {
+  -fx-border-radius: 11px;
+  -fx-font-family: Arial;
+  -fx-color: #F31414;
+  -fx-font-size: 12px;
+  -fx-background: #F31414;
+  -fx-padding: 8px 13px 8px 14px;
+}
+
+
+#borrarRespuestaAlternativaBtn:hover {
+  -fx-background: #ff0033;
+
+}
+
+#cancelarAltaCuestionBtn {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #F31414;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+
+}
+
+#cancelarAltaCuestionBtn:hover {
+  -fx-background-color: #FFFF;
+	-fx-text-fill: #F31414;
+	-fx-border-color: #F31414;
+	-fx-border-radius: 2;
+}
+
+
+
+/***********************************************************/
+
+/********************** ALTA CUESTIONARIO ***********************/
+#addCuestionarioButton {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#addCuestionarioButton:hover {
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #29b6f6;
+	-fx-border-color: #29b6f6;
+	-fx-border-radius: 2;
+}
+
+#addCuestionarioButton:armed {
+	-fx-padding: 9;
+	-fx-pref-width: 380px;
+}
+
+#addCuestionAlCuestionarioButton {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #33FF8D;
+	-fx-text-fill: #000000;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#addCuestionAlCuestionarioButton:hover {
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #42B526;
+	-fx-border-color: #42B526;
+	-fx-border-radius: 2;
+}
+
+#addCuestionAlCuestionarioButton:armed {
+	-fx-padding: 9;
+	-fx-pref-width: 380px;
+}
+
+#cancelarAltaCuestionarioBtn {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #F31414;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+
+}
+
+#cancelarAltaCuestionarioBtn:hover {
+  -fx-background-color: #FFFF;
+	-fx-text-fill: #F31414;
+	-fx-border-color: #F31414;
+	-fx-border-radius: 2;
+}
+
+
+/********************** IMPORTAR CUESTIONARIO ***********************/
+
+#buscarButton {
+	-fx-pref-width: 100px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#buscarButton:hover {
+	
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #29b6f6;
+	-fx-border-color: #29b6f6;
+	-fx-border-radius: 2;
+}
+
+#importarButton {
+	-fx-pref-width: 100px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#importarButton:hover {
+	
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #29b6f6;
+	-fx-border-color: #29b6f6;
+	-fx-border-radius: 2;
+}
+
+#rutaDelFicheroTextField {
+ 	 -fx-background-color: -fx-text-box-border, -fx-background ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+
+
+/********************** EXPORTAR CUESTIONARIO ***********************/
+
+#exportarButton {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#exportarButton:hover {
+
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #29b6f6;
+	-fx-border-color: #29b6f6;
+	-fx-border-radius: 2;
+}
+
+
+/***********************************************************/
+
+
+
+/********************** RESOLVER CUESTIONARIO ***********************/
+#siguienteCuestionButton {
+	-fx-pref-width: 350px;
+	-fx-font-size: 11pt;
+	-fx-padding: 5px 0 5px 0;
+	-fx-background-color: #29b6f6;
+	-fx-text-fill: #FFFF;
+	-fx-border-color: #bdbdbd;
+	-fx-border-radius: 2;
+}
+
+#siguienteCuestionButton:hover {
+	
+	-fx-background-color: #FFFF;
+	-fx-text-fill: #29b6f6;
+	-fx-border-color: #29b6f6;
+	-fx-border-radius: 2;
+}
+
+#tooltip {
+	-fx-background-color: #ffff88;
+	-fx-text-fill: #000000;
+	
+}
+
+
+
+
+
+
+/***********************************************************/
+
