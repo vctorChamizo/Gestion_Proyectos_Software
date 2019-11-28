@@ -6,10 +6,15 @@ The application has been developed applying agile methodologies, more specifical
 
 In addition, the project has been developed using continuous integration, allowing the automation of test and versioning of the application
 
+The developed project has the functionality of providing support to the student when studying, thus being able to perform a self test that allows him to evaluate
+
+![School GIG](https://cdn.dribbble.com/users/227808/screenshots/5549059/bbb-nlaicons.gif)
+
 
 ## Documentation
 
 The projects are intended to address the following issues and competencies:
+
   - Analysis:
     - Analyze the needs of a project to select the most appropriate staff.
     - Analyze and prioritize the needs of a client to develop a specification of software requirements.
@@ -27,29 +32,20 @@ The projects are intended to address the following issues and competencies:
     - Plan the needs of a software development project.
 
 
-## Project Description
-
-The developed project has the functionality of providing support to the student when studying, thus being able to perform a self test that allows him to evaluate
-
-![School GIG](https://cdn.dribbble.com/users/227808/screenshots/5549059/bbb-nlaicons.gif)
-
-### Funcionality
+## Funcionality Project
 Below are some of the application's functionalities as well as its final graphic result.
 
-#### Create a question
+### Create a question
 ![CrearPregunta](https://user-images.githubusercontent.com/32466953/69819106-7f1a0b00-11fe-11ea-9059-19220fe07781.png)
 
---- 
 
-#### Create a questionary
+### Create a questionary
 ![CrearCuestionario](https://user-images.githubusercontent.com/32466953/69819107-7f1a0b00-11fe-11ea-8eab-41d8de8344f1.png)
 
---- 
 
-#### Practice!
+### Practice!
 ![Cuestionario](https://user-images.githubusercontent.com/32466953/69819108-7f1a0b00-11fe-11ea-9815-27531452a3b2.png)
 
---- 
 
 ## Technologies
 The implementation was carried out using:
