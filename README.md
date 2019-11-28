@@ -14,3 +14,5 @@ The projects presented here are intended to address the following issues and com
 
 ## Project Description
 The developed project has the functionality of providing support to the student when studying, thus being able to perform a self test that allows him to evaluate
+
+![image](https://user-images.githubusercontent.com/32466953/69814872-6eb16280-11f5-11ea-8e8c-7a83b08fb693.png)
