@@ -1,5 +1,6 @@
 # Software Project Management - StudyApp
 
+## Introduction
 This project stems from the need to create an application in which, as development takes place, the software engineering methodologies are used.
 
 The application has been developed applying agile methodologies, more specifically the Scrum methodology, making the sprints that have been necessary for the development of the project and with an interpretation of roles by the team as indicated by the Scrum manifest.
