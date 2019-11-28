@@ -1,4 +1,4 @@
-# Software Project Management - StudyApp
+# Lab | Software Project Management - StudyApp
 
 ## Introduction
 This project stems from the need to create an application in which, as development takes place, the software engineering methodologies are used.
